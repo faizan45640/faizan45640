@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Moin</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan45640&label=Profile%20views&color=0e75b6&style=flat" alt="faizan45640" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faizan45640&theme=" alt="faizan45640" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Data Science**
 
@@ -20,7 +19,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=faizan45640&show_icons=true&locale=en&theme=default" alt="faizan45640" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan45640&theme=" alt="faizan45640" /></p>
 
